@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eloo-dpx
-- 👀 I’m interested in Endangered Languages (mainly in Asia, SEA) and learn programming.
+- 👀 I’m interested in Endangered Languages (mainly in Asia, SEA) and in learning programming.
 - 🌱 I’m currently learning R, LaTeX.
 - 💞️ I’m looking to collaborate on making archives for Formosan languages.
 - 📫 How to reach me : eloo.dpx.tw@gmail.com
